@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color> <color name="colorPrimaryDark">#3700B3</color> <color name="colorAccent">#03DAC6</color> <color name="logoutButtonBackground">#d9534f</color> <color name="selectButtonBackground">#6c63ff</color> <color name="compareButtonBackground">#28a745</color> <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimaryText">#222</color> <color name="secondaryTextColor">#777</color> <color name="productItemBackground">#f9f9f9</color> </resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "884391614230",
+    "firebase_url": "https://jewelleryapp-97963-default-rtdb.firebaseio.com",
+    "project_id": "jewelleryapp-97963",
+    "storage_bucket": "jewelleryapp-97963.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884391614230:android:85d144113d67cc90002237",
+        "android_client_info": {
+          "package_name": "com.example.jewellerycomparison"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDeMZGNh66klgiNpVvQoOkwcx1TKxPe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
